@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishiKumar158
+- 👋 Hi, I’m @RishiKumar
 - 👀 Currently Pursuing the Career as a Full Stack Developer at TATA Communications.
 - 🌱 I’m currently learning JAVA with Spring Boot Framework
 - 💞️ I’m looking to collaborate on JAVA API Development and UI Development using Angular
